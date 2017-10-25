@@ -9,6 +9,6 @@ public class HelloWorld {
     public static void main(String[] args) {
         System.out.println("HelloWorld");
         System.out.println(new Date());
-        System.out.println("GitHub is so cool yo!");
+        System.out.println("GitHub is so cool yo and look at the time !");
     }
 }
